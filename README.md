@@ -1,2 +1,1 @@
-# hash
-simple_hashing_algorithm
+Adjustable hash length for strings
